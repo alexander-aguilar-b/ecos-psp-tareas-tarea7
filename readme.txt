@@ -1,8 +1,8 @@
 ﻿*********************************************************************************************************************************************************
 * Curso: 		201710_CSOF5101_01 - CONCEPTOS AVANZADOS DE INGENIERIA SOFTWARE									*
 * Tarea: 		Tarea6																*					
-* Estudiante:		Edgar Alexander Aguilar Bolaños													*
-* Fecha:		19 de Abril de 2017														*
+* Estudiante:	Edgar Alexander Aguilar Bolaños													*
+* Fecha:		03 de Mayo de 2017														*
 *********************************************************************************************************************************************************
 INSTRUCCIONES PARA DESCARGAR EL PROYECTO DESDE GITHUB Y EJECUTARLO LOCALMENTE
 *********************************************************************************************************************************************************		  
@@ -18,9 +18,9 @@ INSTRUCCIONES PARA DESCARGAR EL PROYECTO DESDE GITHUB Y EJECUTARLO LOCALMENTE
 *********************************************************************************************************************************************************		  
 HEROKU
 *********************************************************************************************************************************************************
-1-Para validar los tests de PSP7, acceder a la siguiente URL de la aplicacion desplegada en Heroku:
+1-Para validar los tests de PSP7, acceder a la siguiente URL de la aplicacion desplegada en Heroku:	
 	
-	https://guarded-chamber-48143.herokuapp.com/psp7
+	https://morning-garden-60471.herokuapp.com/psp7
 *********************************************************************************************************************************************************
 NOTAS:
 *********************************************************************************************************************************************************		  
